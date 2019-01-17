@@ -12,4 +12,17 @@ Question 6: Qui est grace Hopper?
 C'est une informaticienne américaine et Rear admiral de la marine Américaine.Elle est la conceptrice du premier compilateur en 1951 et du langage COBOL en 1959.
 Question 7: Qu'est-ce que QWANT?
 Qwant est un moteur de recherche français lancé le 16fvrier 2013 en version bêta, puis en version final le 4juillet 2013.
+Question 8: Qui est Steve Wozniak?
+C'est un informaticien,professeur d'informatique et électronicien américain.
+Question 9: Quels sont les prochains rendez-vous tech de Toulouse?
+
+Question10: Qui est Aaron Swartz?
+C'est un informaticien,écrivain,militant politique et hacktiviste américain.
+Question 11: Qu'est-ce que le projet GNU?
+C'est un projet informatique dont les premiers développements ont été réalisés en janvier 1984 par RICHARD STALLMAN pour développer le système d'exploitation GNU.
+Question 12: Quelles sont les différences entre le HTTP et le HTTPS?
+HTTP est un protocole qui permet de recevoir des informations des serveurs web. Qui permet d'envoyer des informations vers les serveurs web et surtout que tous ces échanges se font sans aucun cryptage. Et HTPPS est composé de deux protocoles: le protocole HTTP et le protocole SSL c'est lui donne le S au protocole HTTPS (S pour Secure)
+Question 13: Qui est Richard Stallman?
+C'est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre,il lance en 1983, le projet GNU et la licence publique général GNU connue aussi sous l'acronyme GPL.
+Question 14: Comment fonctionne les bang de DUCK DUCK GO ? 
 
