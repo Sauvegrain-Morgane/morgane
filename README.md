@@ -8,4 +8,6 @@ Question 4: Que sont le copyright et le copyleft?
 Le copyleft , avec un C réfléchi (ouvert à gauche),est l'opposé du copyright (C ouvert à droite).Le copyleft est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur d'utiliser , d'étudier,modifier, et de diffuser son oeuvre,dans la mesure ou cette même autorisation reste préservée. Le copyright est dans les pays common law,l'ensemble des préogatives exclusives dont dispose une personne physique ou morale sur une oeuvre de l'esprit original.
 Question 5: Que sont les Creatives Commons?
 Association à but non lucratif dont la finalité est de proposer une alternative légale aux personnes souhant libérer leurs oeuvres des droits de propriété intellectuelle standard de leur pays,jugés trop restrictifs.
+Question 6: Qui est grace Hopper?
+C'est une informaticienne américaine et Rear admiral de la marine Américaine.Elle est la conceptrice du premier compilateur en 1951 et du langage COBOL en 1959.
 
