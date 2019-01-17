@@ -10,4 +10,6 @@ Question 5: Que sont les Creatives Commons?
 Association à but non lucratif dont la finalité est de proposer une alternative légale aux personnes souhant libérer leurs oeuvres des droits de propriété intellectuelle standard de leur pays,jugés trop restrictifs.
 Question 6: Qui est grace Hopper?
 C'est une informaticienne américaine et Rear admiral de la marine Américaine.Elle est la conceptrice du premier compilateur en 1951 et du langage COBOL en 1959.
+Question 7: Qu'est-ce que QWANT?
+Qwant est un moteur de recherche français lancé le 16fvrier 2013 en version bêta, puis en version final le 4juillet 2013.
 
